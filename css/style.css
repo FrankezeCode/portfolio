@@ -129,6 +129,8 @@ section {
 @media(max-width: 800px){
     section {
         padding: 3em 1.5em;
+        padding-right: 0.5em;
+        padding-left: 0.5em;
     }
 }
 
