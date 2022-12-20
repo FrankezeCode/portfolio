@@ -126,6 +126,12 @@ section {
     padding: 3em 5em;
 }
 
+@media(max-width: 800px){
+    section {
+        padding: 3em 1.5em;
+    }
+}
+
 img{
     display: block;
     max-width: 100%;
