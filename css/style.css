@@ -594,14 +594,14 @@ header{
     background-position: center;
 }
 
-.xd-logo {
-    background: url("../image/xd.png") no-repeat;
+.node-logo {
+    background: url("../image/nodejs.png") no-repeat;
     background-size: 80%;
     background-position: center;
 }
 
-.illustrator-logo {
-    background: url("../image/illustrator.png") no-repeat;
+.Next-logo {
+    background: url("../image/Next.png") no-repeat;
     background-size: 80%;
     background-position: center;
 }
@@ -757,6 +757,12 @@ header{
     cursor: pointer;
 }
 
+.ai-tool{
+    background: url("../image/ai-tool.JPG") no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+}
+
 .snake-game{
     background: url("../image/snake game.png") no-repeat;
     background-size: cover;
@@ -783,11 +789,6 @@ header{
     background-position: center;
 }
 
-.blog{
-    background: url("../image/blog.PNG") no-repeat;
-    background-size: cover;
-    /* background-position: center;  */
-}
 
 .project-name-holder {
     position: absolute;
